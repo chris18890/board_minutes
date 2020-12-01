@@ -1,39 +1,45 @@
 # Board Minutes
-
 Details of all decisions made by the Hackspace Manchester board.
 
-Board Members
-============
-
-Current board members:
+# Board Members
+Current and previous board members
+##Current board members:
+- Aldworth-Beswick, Laura
+- Dale, Mark
+- France, Jason *(Co-Chair)*
+- Pearce, Ellan
+- Stevenson, Ross *(Co-Chair)*
+---
+##Previous Board Members
+###2019-2020 Board Members:
 - Laura Aldworth-Beswick
 - Ben Dooks
 - Ross Stevenson
 - Ellan Pearce
 - Mike Bratt
-
-2018-2019 board members:
+---
+###2018-2019 Board members:
 - Chris Hilliard
 - Greg Morris
 - Ross Stevenson
 - Ellan Pearce
 - Mike Bratt
-
-2017-2018 board members:
+---
+###2017-2018 Board members:
 - Bob Clough
 - Chris Hilliard
 - Tamarisk Kay
 - Greg Morris
 - Conor Riches
 
-2016-2017 board members:
+###2016-2017 Board members:
 - Bob Clough (Chair)
 - Ben Dooks
 - Chris Hilliard
 - Tamarisk Kay (Secretary)
 - Kathryn Reeve
 
-All members are refered to by their initials.
+All board members are referred to unambiguously.
 
 Board Minutes
 =============
