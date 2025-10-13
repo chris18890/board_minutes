@@ -3,41 +3,95 @@ Details of all decisions made by the Hackspace Manchester board.
 
 # Board Members
 Current and previous board members
-##Current board members:
-- Aldworth-Beswick, Laura
-- Dale, Mark
-- France, Jason *(Co-Chair)*
-- Pearce, Ellan
-- Stevenson, Ross *(Co-Chair)*
+
+## Current board members:
+
+Elections are currently ongoing, to be completed once results are known
 ---
-##Previous Board Members
-###2019-2020 Board Members:
+
+## Previous Board Members
+
+### 2024-2025 Board Members:
+
+- Harvinder Atwal
+- Joseph Christian
+- Ben Dooks
+- Rob Jackson
+- Peter Roberts
+- Jasmine Streatfield
+---
+
+### 2023-2024 Board Members:
+
+- Harvinder Atwal
+- Joseph Christian
+- Ben Dooks
+- Rob Jackson
+- Peter Roberts
+- Jasmine Streatfield
+---
+
+### 2022-2023 Board Members:
+
+- Joseph Christian
+- Jason France
+- Alan Good
+- Francis Hall
+- Ellan Pearce
+- Dominique Tink
+---
+
+### 2021-2022 Board Members:
+
+- Jason France *(Co-Chair)*
+- Ellan Pearce
+- Ross Stevenson *(Co-Chair)*
+---
+
+### 2020-2021 Board Members:
+
+- Laura Aldworth-Beswick
+- Mark Dale
+- Jason France *(Co-Chair)*
+- Ellan Pearce
+- Ross Stevenson *(Co-Chair)*
+---
+
+### 2019-2020 Board Members:
+
 - Laura Aldworth-Beswick
 - Ben Dooks
 - Ross Stevenson
 - Ellan Pearce
 - Mike Bratt
 ---
-###2018-2019 Board members:
+
+### 2018-2019 Board members:
+
 - Chris Hilliard
 - Greg Morris
 - Ross Stevenson
 - Ellan Pearce
 - Mike Bratt
 ---
-###2017-2018 Board members:
+
+### 2017-2018 Board members:
+
 - Bob Clough
 - Chris Hilliard
 - Tamarisk Kay
 - Greg Morris
 - Conor Riches
+---
 
-###2016-2017 Board members:
+### 2016-2017 Board members:
+
 - Bob Clough (Chair)
 - Ben Dooks
 - Chris Hilliard
 - Tamarisk Kay (Secretary)
 - Kathryn Reeve
+---
 
 All board members are referred to unambiguously.
 
