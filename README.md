@@ -6,7 +6,11 @@ Current and previous board members
 
 ## Current board members:
 
-Elections are currently ongoing, to be completed once results are known
+- Ross Ballinger
+- Joseph Christian
+- Jordon Colclough
+- John Deptford
+- Rob Jackson
 ---
 
 ## Previous Board Members
@@ -15,9 +19,9 @@ Elections are currently ongoing, to be completed once results are known
 
 - Harvinder Atwal
 - Joseph Christian
+- Jordon Colclough
 - Ben Dooks
 - Rob Jackson
-- Peter Roberts
 - Jasmine Streatfield
 ---
 
